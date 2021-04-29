@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/seabattle-ts-pwa/static/css/main.7de8d2cb.chunk.css",
-    "main.js": "/seabattle-ts-pwa/static/js/main.f406c45a.chunk.js",
-    "main.js.map": "/seabattle-ts-pwa/static/js/main.f406c45a.chunk.js.map",
+    "main.css": "/seabattle-ts-pwa/static/css/main.1b06554a.chunk.css",
+    "main.js": "/seabattle-ts-pwa/static/js/main.d970d788.chunk.js",
+    "main.js.map": "/seabattle-ts-pwa/static/js/main.d970d788.chunk.js.map",
     "runtime-main.js": "/seabattle-ts-pwa/static/js/runtime-main.d80a9256.js",
     "runtime-main.js.map": "/seabattle-ts-pwa/static/js/runtime-main.d80a9256.js.map",
     "static/js/2.fd3eb1c0.chunk.js": "/seabattle-ts-pwa/static/js/2.fd3eb1c0.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/seabattle-ts-pwa/index.html",
     "service-worker.js": "/seabattle-ts-pwa/service-worker.js",
     "service-worker.js.map": "/seabattle-ts-pwa/service-worker.js.map",
-    "static/css/main.7de8d2cb.chunk.css.map": "/seabattle-ts-pwa/static/css/main.7de8d2cb.chunk.css.map",
+    "static/css/main.1b06554a.chunk.css.map": "/seabattle-ts-pwa/static/css/main.1b06554a.chunk.css.map",
     "static/js/2.fd3eb1c0.chunk.js.LICENSE.txt": "/seabattle-ts-pwa/static/js/2.fd3eb1c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d80a9256.js",
     "static/js/2.fd3eb1c0.chunk.js",
-    "static/css/main.7de8d2cb.chunk.css",
-    "static/js/main.f406c45a.chunk.js"
+    "static/css/main.1b06554a.chunk.css",
+    "static/js/main.d970d788.chunk.js"
   ]
 }
