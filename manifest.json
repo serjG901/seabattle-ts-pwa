@@ -20,7 +20,7 @@
   ],
   "start_url": "https://serjg901.github.io/seabattle-ts-pwa/",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#0a1533",
   "background_color": "#0a1533",
   "lang": "en",
   "description": "SeaBattle is a game for two players. Knock out all the ships from the enemy field!",
@@ -35,7 +35,7 @@
   "categories": [
     "games"
   ],
-  "screenshots" : [
+  "screenshots": [
     {
       "src": "screenshot1w.jpg",
       "sizes": "1398x645",
@@ -84,5 +84,8 @@
       "type": "image/jpg",
       "platform": "narrow"
     }
-  ]
+  ],
+  "id": "1",
+  "dir": "auto",
+  "prefer_related_applications": false
 }
