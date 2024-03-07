@@ -87,5 +87,8 @@
   ],
   "id": "1",
   "dir": "auto",
-  "prefer_related_applications": false
+  "prefer_related_applications": false,
+  "launch_handler": {
+    "client_mode": "auto"
+  }
 }
