@@ -19,7 +19,7 @@
     }
   ],
   "start_url": "https://serjg901.github.io/seabattle-ts-pwa/",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#0a1533",
   "background_color": "#0a1533",
   "lang": "en",
@@ -27,6 +27,7 @@
   "orientation": "landscape-primary",
   "scope": "https://serjg901.github.io/seabattle-ts-pwa/",
   "display_override": [
+    "fullscreen",
     "standalone",
     "minimal-ui",
     "browser",
